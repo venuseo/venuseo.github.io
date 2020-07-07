@@ -32,7 +32,7 @@
 
 欧美日多家官网元数据支持  
 
-Windows / Mac / Linux / 群晖    
+Windows / Mac / Linux / 群晖     
 
 ## Venuseo Shuffle 会员版 
 
