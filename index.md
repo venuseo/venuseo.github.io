@@ -3,9 +3,10 @@
 属于您个人的视频中心！
 
 当你有几百或几千部视频，当你想翻出所有Ta的视频
+
 当你想收集一套制服系列，当你怎么也想不起Ta是谁
 
-![Image](https://venuseo.github.io/images/chart.jpg)
+![Image](images/chart.jpg)
 
 
 ### Markdown
