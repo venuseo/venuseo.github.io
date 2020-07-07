@@ -1,6 +1,6 @@
-## 薇搜，方便看视频
+# 薇搜，方便看视频
 
-属于您个人的视频中心！
+属于您个人的视频中心！  
 
 当你有几百或几千部视频，当你想翻出所有Ta的视频  
 
@@ -9,34 +9,55 @@
 ![Image](images/chart.jpg)
 
 
-### Markdown
+## Venuseo 视频浏览器  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](images/explorer.jpg)  
 
-```markdown
-Syntax highlighted code block
+永久会员 398。  
 
-# Header 1
-## Header 2
-### Header 3
+购买 Pro 版，联系Q-Q可获得永久会员。  
+直接联系购买会员，Q-Q：1754872220  
 
-- Bulleted
-- List
+## Venuseo 会员版 
 
-1. Numbered
-2. List
+![Image](images/poster.jpg)  
 
-**Bold** and _Italic_ and `Code` text
+分类浏览，便捷搜索  
 
-[Link](url) and ![Image](src)
-```
+精彩片段，快速剪辑，循环播放  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+本地播放器，多开窗口，大屏最爱  
 
-### Jekyll Themes
+大尺寸超高清海报封面，剧照浏览  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/venuseo/venuseo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+欧美日多家官网元数据支持  
 
-### Support or Contact
+Windows / Mac / Linux / 群晖    
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Venuseo Shuffle 会员版 
+
+![Image](images/shuffle.jpg)  
+
+随机筛选，浏览和播放  
+
+MPlayer nPlayer 外部播放器支持  
+
+iOS / Android  
+
+
+## Pro 版 (送会员) 
+
+分类浏览（演员，标签，系列等）  
+
+元数据支持  
+
+仅限windows10平台  
+
+[购买](https://www.microsoft.com/store/apps/9N5V67GF2X8N).
+
+
+## 联系我们 
+
+
+[电子邮件](mailto://help@venuseo.com).
+
