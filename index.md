@@ -1,8 +1,12 @@
 ## 薇搜，方便看视频
 
-You can use the [editor on GitHub](https://github.com/venuseo/venuseo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+属于您个人的视频中心！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+当你有几百或几千部视频，当你想翻出所有Ta的视频
+当你想收集一套制服系列，当你怎么也想不起Ta是谁
+
+![Image](https://venuseo.github.io/images/chart.jpg)
+
 
 ### Markdown
 
